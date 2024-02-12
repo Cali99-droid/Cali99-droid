@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **API REST**
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Microservicios**
 
 - 👨‍💻 All of my projects are available at [https://www.carlooss.com/](https://www.carlooss.com/)
 
